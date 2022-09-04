@@ -309,3 +309,11 @@ Web安全
 - [HackMD markdown协同工具(Docker版)](https://hackmd.io/c/codimd-documentation/%2Fs%2Fcodimd-docker-deployment)
 
 
+
+# 天下武功，無堅不破，唯快不破，以勢贏者勢頹則，以力勝者力盡則亡。
+
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188296267-d7a6cce7-c76e-47a1-8247-bd24b693d38c.gif)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188296271-2a8e2e08-b532-4121-bbf2-ac64b875bde0.png)
+
