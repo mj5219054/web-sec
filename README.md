@@ -649,9 +649,11 @@ Xray
 
 
 
+#权限维持# #权限提升# #Linux# #Windows
 
+* 权限提升思维图 https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques/blob/master/
 
-
+* ![图片](https://user-images.githubusercontent.com/79394963/191659154-41a69033-2006-4456-bd71-69e15f156aea.png)
 
 
 
